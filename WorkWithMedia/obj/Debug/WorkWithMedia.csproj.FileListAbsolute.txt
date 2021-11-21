@@ -1,0 +1,16 @@
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\bin\Debug\WorkWithMedia.exe.config
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\bin\Debug\WorkWithMedia.exe
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\bin\Debug\WorkWithMedia.pdb
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\WorkWithMedia.csproj.AssemblyReference.cache
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\WorkWithMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\MainWindow.g.cs
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\App.g.cs
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\WorkWithMedia_MarkupCompile.cache
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\WorkWithMedia_MarkupCompile.lref
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\MainWindow.baml
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\WorkWithMedia.g.resources
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\WorkWithMedia.Properties.Resources.resources
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\WorkWithMedia.csproj.GenerateResource.cache
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\WorkWithMedia.csproj.CoreCompileInputs.cache
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\WorkWithMedia.exe
+C:\Users\Misha\RiderProjects\WorkWithMedia\WorkWithMedia\obj\Debug\WorkWithMedia.pdb
